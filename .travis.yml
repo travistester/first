@@ -1,3 +1,4 @@
+language: python
 install:
 - "./.travis/install.sh"
 script:
