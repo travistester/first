@@ -1,5 +1,5 @@
 language: python
 install:
-- "sh ./.travis/install.sh"
+- "python ./.travis/install.py"
 script:
-- "sh ./.travis/run.sh"
+- "python ./.travis/run.py
