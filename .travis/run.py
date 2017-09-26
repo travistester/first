@@ -6,3 +6,4 @@ print(time())
 print ('bawaseer run\n'*10)
 
 print (1/0)
+
