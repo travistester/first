@@ -1,0 +1,5 @@
+language: python
+install:
+- "python ./.travis/install.py"
+script:
+- "python ./.travis/run.py"
